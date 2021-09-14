@@ -42,6 +42,10 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [github.com/Tzienom/3-Column-Preview-Card](https://github.com/Tzienom/3-Column-Preview-Card)
+
+- Live Site URL: [tzienom-3columnpreviewcard.netlify.app](https://tzienom-3columnpreviewcard.netlify.app/)
+
 
 
 
